@@ -130,3 +130,7 @@ dmypy.json
 
 #vscode
 .vscode/
+
+#sqlite-files
+.sqlite3
+.sqlite
